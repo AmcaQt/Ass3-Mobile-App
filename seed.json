@@ -1,0 +1,8 @@
+{
+  "lab": {
+    "live": { "temp": 31.4, "humidity": 68, "gas": 820, "light": 2100, "status": "safe", "timestamp": 1761530400000 },
+    "actuators": { "fan": false, "buzzer": false, "mode": "auto" },
+    "thresholds": { "tempWarn": 32, "tempDanger": 40, "gasWarn": 1500, "gasDanger": 2500 },
+    "device": { "online": true, "lastSeen": 1761530400000 }
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "lab": {
+    "live": {
+      "temp": 32.1,
+      "humidity": 66,
+      "gas": 1150,
+      "gasReady": true,
+      "distance": 110,
+      "personPresent": false,
+      "status": "warning",
+      "reason": "Temperature rising 32.1 C",
+      "mode": "auto",
+      "timestamp": 1795035539906,
+      "outputs": {
+        "green": false,
+        "yellow": true,
+        "white": false,
+        "buzzer": false
+      }
+    },
+    "actuators": {
+      "green": false,
+      "yellow": false,
+      "white": false,
+      "buzzer": false,
+      "mode": "auto"
+    },
+    "thresholds": {
+      "tempWarn": 32,
+      "tempDanger": 40,
+      "gasWarn": 1500,
+      "gasDanger": 2500,
+      "presenceCm": 80
+    },
+    "device": {
+      "lastSeen": 1795035539906,
+      "rssi": -58,
+      "ip": "192.168.43.117"
+    },
+    "history": {
+      "r00": {
+        "temp": 28.6,
+        "humidity": 64,
+        "gas": 780,
+        "distance": 64,
+        "status": "safe",
+        "timestamp": 1795033199906
+      },
+      "r01": {
+        "temp": 28.8,
+        "humidity": 65,
+        "gas": 813,
+        "distance": 82,
+        "status": "safe",
+        "timestamp": 1795033259906
+      },
+      "r02": {
+        "temp": 28.9,
+        "humidity": 66,
+        "gas": 835,
+        "distance": 105,
+        "status": "safe",
+        "timestamp": 1795033319906
+      },
+      "r03": {
+        "temp": 28.9,
+        "humidity": 67,
+        "gas": 838,
+        "distance": 128,
+        "status": "safe",
+        "timestamp": 1795033379906
+      },
+      "r04": {
+        "temp": 28.9,
+        "humidity": 68,
+        "gas": 822,
+        "distance": 152,
+        "status": "safe",
+        "timestamp": 1795033439906
+      },
+      "r05": {
+        "temp": 28.9,
+        "humidity": 68,
+        "gas": 791,
+        "distance": 165,
+        "status": "safe",
+        "timestamp": 1795033499906
+      },
+      "r06": {
+        "temp": 28.7,
+        "humidity": 68,
+        "gas": 758,
+        "distance": 150,
+        "status": "safe",
+        "timestamp": 1795033559906
+      },
+      "r07": {
+        "temp": 28.6,
+        "humidity": 67,
+        "gas": 731,
+        "distance": 132,
+        "status": "safe",
+        "timestamp": 1795033619906
+      },
+      "r08": {
+        "temp": 28.4,
+        "humidity": 66,
+        "gas": 721,
+        "distance": 118,
+        "status": "safe",
+        "timestamp": 1795033679906
+      },
+      "r09": {
+        "temp": 28.3,
+        "humidity": 65,
+        "gas": 730,
+        "distance": 96,
+        "status": "safe",
+        "timestamp": 1795033739906
+      },
+      "r10": {
+        "temp": 28.3,
+        "humidity": 63,
+        "gas": 757,
+        "distance": 74,
+        "status": "safe",
+        "timestamp": 1795033799906
+      },
+      "r11": {
+        "temp": 28.3,
+        "humidity": 62,
+        "gas": 791,
+        "distance": 62,
+        "status": "safe",
+        "timestamp": 1795033859906
+      },
+      "r12": {
+        "temp": 28.3,
+        "humidity": 61,
+        "gas": 822,
+        "distance": 58,
+        "status": "safe",
+        "timestamp": 1795033919906
+      },
+      "r13": {
+        "temp": 28.5,
+        "humidity": 60,
+        "gas": 838,
+        "distance": 71,
+        "status": "safe",
+        "timestamp": 1795033979906
+      },
+      "r14": {
+        "temp": 28.6,
+        "humidity": 60,
+        "gas": 835,
+        "distance": 88,
+        "status": "safe",
+        "timestamp": 1795034039906
+      },
+      "r15": {
+        "temp": 28.8,
+        "humidity": 60,
+        "gas": 813,
+        "distance": 110,
+        "status": "safe",
+        "timestamp": 1795034099906
+      },
+      "r16": {
+        "temp": 28.9,
+        "humidity": 61,
+        "gas": 780,
+        "distance": 140,
+        "status": "safe",
+        "timestamp": 1795034159906
+      },
+      "r17": {
+        "temp": 28.9,
+        "humidity": 62,
+        "gas": 748,
+        "distance": 158,
+        "status": "safe",
+        "timestamp": 1795034219906
+      },
+      "r18": {
+        "temp": 29.2,
+        "humidity": 63,
+        "gas": 935,
+        "distance": 172,
+        "status": "safe",
+        "timestamp": 1795034279906
+      },
+      "r19": {
+        "temp": 29.6,
+        "humidity": 64,
+        "gas": 1050,
+        "distance": 149,
+        "status": "safe",
+        "timestamp": 1795034339906
+      },
+      "r20": {
+        "temp": 30.1,
+        "humidity": 65,
+        "gas": 1165,
+        "distance": 121,
+        "status": "safe",
+        "timestamp": 1795034399906
+      },
+      "r21": {
+        "temp": 30.5,
+        "humidity": 67,
+        "gas": 1280,
+        "distance": 93,
+        "status": "safe",
+        "timestamp": 1795034459906
+      },
+      "r22": {
+        "temp": 30.9,
+        "humidity": 67,
+        "gas": 1395,
+        "distance": 68,
+        "status": "safe",
+        "timestamp": 1795034519906
+      },
+      "r23": {
+        "temp": 31.3,
+        "humidity": 68,
+        "gas": 1510,
+        "distance": 55,
+        "status": "warning",
+        "timestamp": 1795034579906
+      },
+      "r24": {
+        "temp": 31.7,
+        "humidity": 68,
+        "gas": 1625,
+        "distance": 64,
+        "status": "warning",
+        "timestamp": 1795034639906
+      },
+      "r25": {
+        "temp": 32.2,
+        "humidity": 68,
+        "gas": 1740,
+        "distance": 82,
+        "status": "warning",
+        "timestamp": 1795034699906
+      },
+      "r26": {
+        "temp": 32.6,
+        "humidity": 67,
+        "gas": 1855,
+        "distance": 105,
+        "status": "warning",
+        "timestamp": 1795034759906
+      },
+      "r27": {
+        "temp": 33.0,
+        "humidity": 66,
+        "gas": 1970,
+        "distance": 128,
+        "status": "warning",
+        "timestamp": 1795034819906
+      },
+      "r28": {
+        "temp": 33.4,
+        "humidity": 64,
+        "gas": 2085,
+        "distance": 152,
+        "status": "warning",
+        "timestamp": 1795034879906
+      },
+      "r29": {
+        "temp": 33.8,
+        "humidity": 63,
+        "gas": 2200,
+        "distance": 165,
+        "status": "warning",
+        "timestamp": 1795034939906
+      },
+      "r30": {
+        "temp": 34.1,
+        "humidity": 62,
+        "gas": 2405,
+        "distance": 150,
+        "status": "warning",
+        "timestamp": 1795034999906
+      },
+      "r31": {
+        "temp": 34.3,
+        "humidity": 61,
+        "gas": 2490,
+        "distance": 132,
+        "status": "warning",
+        "timestamp": 1795035059906
+      },
+      "r32": {
+        "temp": 34.6,
+        "humidity": 60,
+        "gas": 2575,
+        "distance": 118,
+        "status": "danger",
+        "timestamp": 1795035119906
+      },
+      "r33": {
+        "temp": 34.8,
+        "humidity": 60,
+        "gas": 2660,
+        "distance": 96,
+        "status": "danger",
+        "timestamp": 1795035179906
+      },
+      "r34": {
+        "temp": 35.0,
+        "humidity": 60,
+        "gas": 2745,
+        "distance": 74,
+        "status": "danger",
+        "timestamp": 1795035239906
+      },
+      "r35": {
+        "temp": 34.4,
+        "humidity": 61,
+        "gas": 2390,
+        "distance": 62,
+        "status": "warning",
+        "timestamp": 1795035299906
+      },
+      "r36": {
+        "temp": 33.8,
+        "humidity": 62,
+        "gas": 2080,
+        "distance": 58,
+        "status": "warning",
+        "timestamp": 1795035359906
+      },
+      "r37": {
+        "temp": 33.2,
+        "humidity": 63,
+        "gas": 1770,
+        "distance": 71,
+        "status": "warning",
+        "timestamp": 1795035419906
+      },
+      "r38": {
+        "temp": 32.7,
+        "humidity": 64,
+        "gas": 1460,
+        "distance": 88,
+        "status": "warning",
+        "timestamp": 1795035479906
+      },
+      "r39": {
+        "temp": 32.1,
+        "humidity": 66,
+        "gas": 1150,
+        "distance": 110,
+        "status": "warning",
+        "timestamp": 1795035539906
+      }
+    },
+    "alerts": {
+      "a01": {
+        "message": "Device heartbeat lost for 2 minutes.",
+        "severity": "warning",
+        "timestamp": 1795033559906,
+        "acknowledged": true
+      },
+      "a02": {
+        "message": "Temperature above the 32 \u00b0C warning threshold.",
+        "severity": "warning",
+        "timestamp": 1795034699906,
+        "acknowledged": true
+      },
+      "a03": {
+        "message": "Gas level above the 1500 warning threshold. Exhaust fan started.",
+        "severity": "warning",
+        "timestamp": 1795034579906,
+        "acknowledged": false
+      },
+      "a04": {
+        "message": "Gas level critical at 2700. Buzzer on, evacuate the bench.",
+        "severity": "danger",
+        "timestamp": 1795035299906,
+        "acknowledged": false
+      },
+      "a05": {
+        "message": "Readings back inside the safe range.",
+        "severity": "safe",
+        "timestamp": 1795035539906,
+        "acknowledged": true
+      }
+    }
+  }
+}

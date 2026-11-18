@@ -1,0 +1,4 @@
+- Flutter app for DFI20443 Smart Lab Safety Monitor
+- Never run git commit or git push. I commit myself.
+- Explain the plan before editing any file, wait for my OK.
+- Only touch files I name in the request.

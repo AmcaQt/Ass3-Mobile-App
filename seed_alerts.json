@@ -1,0 +1,32 @@
+{
+  "a01": {
+    "message": "Device heartbeat lost for 2 minutes.",
+    "severity": "warning",
+    "timestamp": 1794293820000,
+    "acknowledged": true
+  },
+  "a02": {
+    "message": "Temperature above the 32 \u00b0C warning threshold.",
+    "severity": "warning",
+    "timestamp": 1794294960000,
+    "acknowledged": true
+  },
+  "a03": {
+    "message": "Gas level above the 1500 warning threshold. Exhaust fan started.",
+    "severity": "warning",
+    "timestamp": 1794294840000,
+    "acknowledged": false
+  },
+  "a04": {
+    "message": "Gas level critical at 2700. Buzzer on, evacuate the bench.",
+    "severity": "danger",
+    "timestamp": 1794295560000,
+    "acknowledged": false
+  },
+  "a05": {
+    "message": "Readings back inside the safe range.",
+    "severity": "safe",
+    "timestamp": 1794295800000,
+    "acknowledged": true
+  }
+}

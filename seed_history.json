@@ -1,0 +1,322 @@
+{
+  "r00": {
+    "temp": 28.6,
+    "humidity": 64,
+    "gas": 780,
+    "light": 2080,
+    "status": "safe",
+    "timestamp": 1794293460000
+  },
+  "r01": {
+    "temp": 28.8,
+    "humidity": 65,
+    "gas": 813,
+    "light": 2110,
+    "status": "safe",
+    "timestamp": 1794293520000
+  },
+  "r02": {
+    "temp": 28.9,
+    "humidity": 66,
+    "gas": 835,
+    "light": 2140,
+    "status": "safe",
+    "timestamp": 1794293580000
+  },
+  "r03": {
+    "temp": 28.9,
+    "humidity": 67,
+    "gas": 838,
+    "light": 2166,
+    "status": "safe",
+    "timestamp": 1794293640000
+  },
+  "r04": {
+    "temp": 28.9,
+    "humidity": 68,
+    "gas": 822,
+    "light": 2188,
+    "status": "safe",
+    "timestamp": 1794293700000
+  },
+  "r05": {
+    "temp": 28.9,
+    "humidity": 68,
+    "gas": 791,
+    "light": 2205,
+    "status": "safe",
+    "timestamp": 1794293760000
+  },
+  "r06": {
+    "temp": 28.7,
+    "humidity": 68,
+    "gas": 758,
+    "light": 2216,
+    "status": "safe",
+    "timestamp": 1794293820000
+  },
+  "r07": {
+    "temp": 28.6,
+    "humidity": 67,
+    "gas": 731,
+    "light": 2219,
+    "status": "safe",
+    "timestamp": 1794293880000
+  },
+  "r08": {
+    "temp": 28.4,
+    "humidity": 66,
+    "gas": 721,
+    "light": 2217,
+    "status": "safe",
+    "timestamp": 1794293940000
+  },
+  "r09": {
+    "temp": 28.3,
+    "humidity": 65,
+    "gas": 730,
+    "light": 2207,
+    "status": "safe",
+    "timestamp": 1794294000000
+  },
+  "r10": {
+    "temp": 28.3,
+    "humidity": 63,
+    "gas": 757,
+    "light": 2191,
+    "status": "safe",
+    "timestamp": 1794294060000
+  },
+  "r11": {
+    "temp": 28.3,
+    "humidity": 62,
+    "gas": 791,
+    "light": 2169,
+    "status": "safe",
+    "timestamp": 1794294120000
+  },
+  "r12": {
+    "temp": 28.3,
+    "humidity": 61,
+    "gas": 822,
+    "light": 2144,
+    "status": "safe",
+    "timestamp": 1794294180000
+  },
+  "r13": {
+    "temp": 28.5,
+    "humidity": 60,
+    "gas": 838,
+    "light": 2115,
+    "status": "safe",
+    "timestamp": 1794294240000
+  },
+  "r14": {
+    "temp": 28.6,
+    "humidity": 60,
+    "gas": 835,
+    "light": 2084,
+    "status": "safe",
+    "timestamp": 1794294300000
+  },
+  "r15": {
+    "temp": 28.8,
+    "humidity": 60,
+    "gas": 813,
+    "light": 2054,
+    "status": "safe",
+    "timestamp": 1794294360000
+  },
+  "r16": {
+    "temp": 28.9,
+    "humidity": 61,
+    "gas": 780,
+    "light": 2024,
+    "status": "safe",
+    "timestamp": 1794294420000
+  },
+  "r17": {
+    "temp": 28.9,
+    "humidity": 62,
+    "gas": 748,
+    "light": 1997,
+    "status": "safe",
+    "timestamp": 1794294480000
+  },
+  "r18": {
+    "temp": 29.2,
+    "humidity": 63,
+    "gas": 935,
+    "light": 1975,
+    "status": "safe",
+    "timestamp": 1794294540000
+  },
+  "r19": {
+    "temp": 29.6,
+    "humidity": 64,
+    "gas": 1050,
+    "light": 1957,
+    "status": "safe",
+    "timestamp": 1794294600000
+  },
+  "r20": {
+    "temp": 30.1,
+    "humidity": 65,
+    "gas": 1165,
+    "light": 1945,
+    "status": "safe",
+    "timestamp": 1794294660000
+  },
+  "r21": {
+    "temp": 30.5,
+    "humidity": 67,
+    "gas": 1280,
+    "light": 1941,
+    "status": "safe",
+    "timestamp": 1794294720000
+  },
+  "r22": {
+    "temp": 30.9,
+    "humidity": 67,
+    "gas": 1395,
+    "light": 1943,
+    "status": "safe",
+    "timestamp": 1794294780000
+  },
+  "r23": {
+    "temp": 31.3,
+    "humidity": 68,
+    "gas": 1510,
+    "light": 1951,
+    "status": "warning",
+    "timestamp": 1794294840000
+  },
+  "r24": {
+    "temp": 31.7,
+    "humidity": 68,
+    "gas": 1625,
+    "light": 1967,
+    "status": "warning",
+    "timestamp": 1794294900000
+  },
+  "r25": {
+    "temp": 32.2,
+    "humidity": 68,
+    "gas": 1740,
+    "light": 1987,
+    "status": "warning",
+    "timestamp": 1794294960000
+  },
+  "r26": {
+    "temp": 32.6,
+    "humidity": 67,
+    "gas": 1855,
+    "light": 2013,
+    "status": "warning",
+    "timestamp": 1794295020000
+  },
+  "r27": {
+    "temp": 33.0,
+    "humidity": 66,
+    "gas": 1970,
+    "light": 2041,
+    "status": "warning",
+    "timestamp": 1794295080000
+  },
+  "r28": {
+    "temp": 33.4,
+    "humidity": 64,
+    "gas": 2085,
+    "light": 2072,
+    "status": "warning",
+    "timestamp": 1794295140000
+  },
+  "r29": {
+    "temp": 33.8,
+    "humidity": 63,
+    "gas": 2200,
+    "light": 2102,
+    "status": "warning",
+    "timestamp": 1794295200000
+  },
+  "r30": {
+    "temp": 34.1,
+    "humidity": 62,
+    "gas": 2405,
+    "light": 2132,
+    "status": "warning",
+    "timestamp": 1794295260000
+  },
+  "r31": {
+    "temp": 34.3,
+    "humidity": 61,
+    "gas": 2490,
+    "light": 2159,
+    "status": "warning",
+    "timestamp": 1794295320000
+  },
+  "r32": {
+    "temp": 34.6,
+    "humidity": 60,
+    "gas": 2575,
+    "light": 2183,
+    "status": "danger",
+    "timestamp": 1794295380000
+  },
+  "r33": {
+    "temp": 34.8,
+    "humidity": 60,
+    "gas": 2660,
+    "light": 2201,
+    "status": "danger",
+    "timestamp": 1794295440000
+  },
+  "r34": {
+    "temp": 35.0,
+    "humidity": 60,
+    "gas": 2745,
+    "light": 2213,
+    "status": "danger",
+    "timestamp": 1794295500000
+  },
+  "r35": {
+    "temp": 34.4,
+    "humidity": 61,
+    "gas": 2390,
+    "light": 2219,
+    "status": "warning",
+    "timestamp": 1794295560000
+  },
+  "r36": {
+    "temp": 33.8,
+    "humidity": 62,
+    "gas": 2080,
+    "light": 2218,
+    "status": "warning",
+    "timestamp": 1794295620000
+  },
+  "r37": {
+    "temp": 33.2,
+    "humidity": 63,
+    "gas": 1770,
+    "light": 2210,
+    "status": "warning",
+    "timestamp": 1794295680000
+  },
+  "r38": {
+    "temp": 32.7,
+    "humidity": 64,
+    "gas": 1460,
+    "light": 2196,
+    "status": "warning",
+    "timestamp": 1794295740000
+  },
+  "r39": {
+    "temp": 32.1,
+    "humidity": 66,
+    "gas": 1150,
+    "light": 2176,
+    "status": "warning",
+    "timestamp": 1794295800000
+  }
+}
